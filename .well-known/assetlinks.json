@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fonyou.orca",
+      "sha256_cert_fingerprints": [
+        "9D:1C:E9:80:BF:24:13:24:14:0F:A9:41:BB:D0:FD:C0:33:20:C6:C1:00:A9:FD:23:3E:F3:DE:58:CC:2E:7F:61"
+      ]
+    }
+  }
+]
