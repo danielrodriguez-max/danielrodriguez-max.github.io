@@ -1,12 +1,8 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.fonyou.orca",
-      "sha256_cert_fingerprints": ["C5:6F:08:AA:E8:0D:44:C2:5C:66:47:61:B3:75:68:2D:60:1C:18:A5:5F:D0:88:94:49:7F:C7:39:EE:51:5C:77"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.orca.fonyou",
+    "sha256_cert_fingerprints": ["9D:1C:E9:80:BF:24:13:24:14:0F:A9:41:BB:D0:FD:C0:33:20:C6:C1:00:A9:FD:23:3E:F3:DE:58:CC:2E:7F:61"]
   }
-]
+}]
